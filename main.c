@@ -4,9 +4,8 @@
 
 /**
 Name:Immanuel I George
-CSUID: 2548936
 CLASS: CIS 340
-GROUP: L
+
 
 */
 
